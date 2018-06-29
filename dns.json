@@ -4,7 +4,7 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "threetierapp.shubhangi.tk",
+        "Name": "threetiermyapp.shubhangi.tk",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
